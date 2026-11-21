@@ -79,3 +79,8 @@ nav a:hover {
     background: #cd77e2;
     border-radius: 50%;
 }
+#clock{
+    color:white;
+    margin-left: 10px;
+    front-family: monospace;
+}
